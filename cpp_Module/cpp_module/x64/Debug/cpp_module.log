@@ -1,0 +1,15 @@
+﻿  cpp_module.cpp
+D:\Raccolte\Documents\Alessandro\GitHub\APL\cpp_module\cpp_module\json_utils.h(6,68): warning C4042: 'unnamed-parameter': classe di archiviazione errata
+  (compilazione del file di origine 'cpp_module.cpp')
+  
+  gateway_data.cpp
+D:\Raccolte\Documents\Alessandro\GitHub\APL\cpp_module\cpp_module\json_utils.h(6,68): warning C4042: 'unnamed-parameter': classe di archiviazione errata
+  (compilazione del file di origine 'gateway_data.cpp')
+  
+  json_utils.cpp
+D:\Raccolte\Documents\Alessandro\GitHub\APL\cpp_module\cpp_module\json_utils.cpp(14,80): warning C4042: 'DIM': classe di archiviazione errata
+  vehicle_data.cpp
+D:\Raccolte\Documents\Alessandro\GitHub\APL\cpp_module\cpp_module\vehicle_data.cpp(16,12): warning C4244: 'argomento': conversione da 'time_t' a 'unsigned int'. Possibile perdita di dati.
+D:\Raccolte\Documents\Alessandro\GitHub\APL\cpp_module\cpp_module\vehicle_data.cpp(7,15): warning C4930: 'Timestamp t(void)': funzione con prototipo non chiamata. Si intendeva utilizzare una definizione di variabile?
+  Generazione del codice in corso...
+  cpp_module.vcxproj -> D:\Raccolte\Documents\Alessandro\GitHub\APL\cpp_module\x64\Debug\cpp_module.exe

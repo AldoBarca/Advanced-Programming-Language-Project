@@ -1,0 +1,159 @@
+C:\Users\aldob\Documents\GitHub\APL\Modulo C#\GUI\bin\Debug\GUI.exe.config
+C:\Users\aldob\Documents\GitHub\APL\Modulo C#\GUI\bin\Debug\GUI.exe
+C:\Users\aldob\Documents\GitHub\APL\Modulo C#\GUI\bin\Debug\GUI.pdb
+C:\Users\aldob\Documents\GitHub\APL\Modulo C#\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\aldob\Documents\GitHub\APL\Modulo C#\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\aldob\Documents\GitHub\APL\Modulo C#\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\aldob\Documents\GitHub\APL\Modulo C#\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\aldob\Documents\GitHub\APL\Modulo C#\GUI\obj\Debug\GUI.exe
+C:\Users\aldob\Documents\GitHub\APL\Modulo C#\GUI\obj\Debug\GUI.pdb
+C:\Users\aldob\Documents\GitHub\APL\Modulo C#\GUI\obj\Debug\GUI.FormFirstPage.resources
+C:\Users\aldob\Documents\GitHub\APL\Modulo C#\GUI\obj\Debug\GUI.FormVisualizzaVeicolo.resources
+C:\Users\aldob\Documents\GitHub\APL\Modulo C#\GUI\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\aldob\Documents\GitHub\APL\Modulo C#\GUI\bin\Debug\Google.Protobuf.dll
+C:\Users\aldob\Documents\GitHub\APL\Modulo C#\GUI\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\aldob\Documents\GitHub\APL\Modulo C#\GUI\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\aldob\Documents\GitHub\APL\Modulo C#\GUI\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\aldob\Documents\GitHub\APL\Modulo C#\GUI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\aldob\Documents\GitHub\APL\Modulo C#\GUI\bin\Debug\MySql.Data.dll
+C:\Users\aldob\Documents\GitHub\APL\Modulo C#\GUI\bin\Debug\System.Buffers.dll
+C:\Users\aldob\Documents\GitHub\APL\Modulo C#\GUI\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\aldob\Documents\GitHub\APL\Modulo C#\GUI\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\aldob\Documents\GitHub\APL\Modulo C#\GUI\bin\Debug\System.IO.Pipelines.dll
+C:\Users\aldob\Documents\GitHub\APL\Modulo C#\GUI\bin\Debug\System.Memory.dll
+C:\Users\aldob\Documents\GitHub\APL\Modulo C#\GUI\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\aldob\Documents\GitHub\APL\Modulo C#\GUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\aldob\Documents\GitHub\APL\Modulo C#\GUI\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\aldob\Documents\GitHub\APL\Modulo C#\GUI\bin\Debug\ZstdSharp.dll
+C:\Users\aldob\Documents\GitHub\APL\Modulo C#\GUI\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\aldob\Documents\GitHub\APL\Modulo C#\GUI\bin\Debug\Google.Protobuf.pdb
+C:\Users\aldob\Documents\GitHub\APL\Modulo C#\GUI\bin\Debug\Google.Protobuf.xml
+C:\Users\aldob\Documents\GitHub\APL\Modulo C#\GUI\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\aldob\Documents\GitHub\APL\Modulo C#\GUI\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\aldob\Documents\GitHub\APL\Modulo C#\GUI\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\aldob\Documents\GitHub\APL\Modulo C#\GUI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\aldob\Documents\GitHub\APL\Modulo C#\GUI\bin\Debug\MySql.Data.xml
+C:\Users\aldob\Documents\GitHub\APL\Modulo C#\GUI\bin\Debug\System.Buffers.xml
+C:\Users\aldob\Documents\GitHub\APL\Modulo C#\GUI\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\aldob\Documents\GitHub\APL\Modulo C#\GUI\bin\Debug\System.IO.Pipelines.xml
+C:\Users\aldob\Documents\GitHub\APL\Modulo C#\GUI\bin\Debug\System.Memory.xml
+C:\Users\aldob\Documents\GitHub\APL\Modulo C#\GUI\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\aldob\Documents\GitHub\APL\Modulo C#\GUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\aldob\Documents\GitHub\APL\Modulo C#\GUI\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\aldob\Documents\GitHub\APL\Modulo C#\GUI\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\aldob\Documents\GitHub\APL\Modulo C#\GUI\obj\Debug\GUI.FormGraficoLive.resources
+C:\Users\aldob\Documents\GitHub\APL\Modulo C#\GUI\bin\Debug\LiveCharts.dll
+C:\Users\aldob\Documents\GitHub\APL\Modulo C#\GUI\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\aldob\Documents\GitHub\APL\Modulo C#\GUI\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\aldob\Documents\GitHub\APL\Modulo C#\GUI\bin\Debug\LiveCharts.pdb
+C:\Users\aldob\Documents\GitHub\APL\Modulo C#\GUI\bin\Debug\LiveCharts.xml
+C:\Users\aldob\Documents\GitHub\APL\Modulo C#\GUI\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\aldob\Documents\GitHub\APL\Modulo C#\GUI\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\aldob\Documents\GitHub\APL\Modulo C#\GUI\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\aldob\Documents\GitHub\APL\Modulo C#\GUI\bin\Debug\LiveCharts.Wpf.xml
+D:\Raccolte\Documents\Alessandro\GitHub\APL\Modulo C#\GUI\bin\Debug\GUI.exe.config
+D:\Raccolte\Documents\Alessandro\GitHub\APL\Modulo C#\GUI\bin\Debug\GUI.exe
+D:\Raccolte\Documents\Alessandro\GitHub\APL\Modulo C#\GUI\bin\Debug\GUI.pdb
+D:\Raccolte\Documents\Alessandro\GitHub\APL\Modulo C#\GUI\bin\Debug\BouncyCastle.Cryptography.dll
+D:\Raccolte\Documents\Alessandro\GitHub\APL\Modulo C#\GUI\bin\Debug\Google.Protobuf.dll
+D:\Raccolte\Documents\Alessandro\GitHub\APL\Modulo C#\GUI\bin\Debug\K4os.Compression.LZ4.dll
+D:\Raccolte\Documents\Alessandro\GitHub\APL\Modulo C#\GUI\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Raccolte\Documents\Alessandro\GitHub\APL\Modulo C#\GUI\bin\Debug\K4os.Hash.xxHash.dll
+D:\Raccolte\Documents\Alessandro\GitHub\APL\Modulo C#\GUI\bin\Debug\LiveCharts.dll
+D:\Raccolte\Documents\Alessandro\GitHub\APL\Modulo C#\GUI\bin\Debug\LiveCharts.WinForms.dll
+D:\Raccolte\Documents\Alessandro\GitHub\APL\Modulo C#\GUI\bin\Debug\LiveCharts.Wpf.dll
+D:\Raccolte\Documents\Alessandro\GitHub\APL\Modulo C#\GUI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Raccolte\Documents\Alessandro\GitHub\APL\Modulo C#\GUI\bin\Debug\MySql.Data.dll
+D:\Raccolte\Documents\Alessandro\GitHub\APL\Modulo C#\GUI\bin\Debug\System.Buffers.dll
+D:\Raccolte\Documents\Alessandro\GitHub\APL\Modulo C#\GUI\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\Raccolte\Documents\Alessandro\GitHub\APL\Modulo C#\GUI\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Raccolte\Documents\Alessandro\GitHub\APL\Modulo C#\GUI\bin\Debug\System.IO.Pipelines.dll
+D:\Raccolte\Documents\Alessandro\GitHub\APL\Modulo C#\GUI\bin\Debug\System.Memory.dll
+D:\Raccolte\Documents\Alessandro\GitHub\APL\Modulo C#\GUI\bin\Debug\System.Numerics.Vectors.dll
+D:\Raccolte\Documents\Alessandro\GitHub\APL\Modulo C#\GUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Raccolte\Documents\Alessandro\GitHub\APL\Modulo C#\GUI\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Raccolte\Documents\Alessandro\GitHub\APL\Modulo C#\GUI\bin\Debug\ZstdSharp.dll
+D:\Raccolte\Documents\Alessandro\GitHub\APL\Modulo C#\GUI\bin\Debug\BouncyCastle.Cryptography.xml
+D:\Raccolte\Documents\Alessandro\GitHub\APL\Modulo C#\GUI\bin\Debug\Google.Protobuf.pdb
+D:\Raccolte\Documents\Alessandro\GitHub\APL\Modulo C#\GUI\bin\Debug\Google.Protobuf.xml
+D:\Raccolte\Documents\Alessandro\GitHub\APL\Modulo C#\GUI\bin\Debug\K4os.Compression.LZ4.xml
+D:\Raccolte\Documents\Alessandro\GitHub\APL\Modulo C#\GUI\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Raccolte\Documents\Alessandro\GitHub\APL\Modulo C#\GUI\bin\Debug\K4os.Hash.xxHash.xml
+D:\Raccolte\Documents\Alessandro\GitHub\APL\Modulo C#\GUI\bin\Debug\LiveCharts.pdb
+D:\Raccolte\Documents\Alessandro\GitHub\APL\Modulo C#\GUI\bin\Debug\LiveCharts.xml
+D:\Raccolte\Documents\Alessandro\GitHub\APL\Modulo C#\GUI\bin\Debug\LiveCharts.WinForms.pdb
+D:\Raccolte\Documents\Alessandro\GitHub\APL\Modulo C#\GUI\bin\Debug\LiveCharts.WinForms.xml
+D:\Raccolte\Documents\Alessandro\GitHub\APL\Modulo C#\GUI\bin\Debug\LiveCharts.Wpf.pdb
+D:\Raccolte\Documents\Alessandro\GitHub\APL\Modulo C#\GUI\bin\Debug\LiveCharts.Wpf.xml
+D:\Raccolte\Documents\Alessandro\GitHub\APL\Modulo C#\GUI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Raccolte\Documents\Alessandro\GitHub\APL\Modulo C#\GUI\bin\Debug\MySql.Data.xml
+D:\Raccolte\Documents\Alessandro\GitHub\APL\Modulo C#\GUI\bin\Debug\System.Buffers.xml
+D:\Raccolte\Documents\Alessandro\GitHub\APL\Modulo C#\GUI\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Raccolte\Documents\Alessandro\GitHub\APL\Modulo C#\GUI\bin\Debug\System.IO.Pipelines.xml
+D:\Raccolte\Documents\Alessandro\GitHub\APL\Modulo C#\GUI\bin\Debug\System.Memory.xml
+D:\Raccolte\Documents\Alessandro\GitHub\APL\Modulo C#\GUI\bin\Debug\System.Numerics.Vectors.xml
+D:\Raccolte\Documents\Alessandro\GitHub\APL\Modulo C#\GUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Raccolte\Documents\Alessandro\GitHub\APL\Modulo C#\GUI\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Raccolte\Documents\Alessandro\GitHub\APL\Modulo C#\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\Raccolte\Documents\Alessandro\GitHub\APL\Modulo C#\GUI\obj\Debug\GUI.FormFirstPage.resources
+D:\Raccolte\Documents\Alessandro\GitHub\APL\Modulo C#\GUI\obj\Debug\GUI.FormGraficoLive.resources
+D:\Raccolte\Documents\Alessandro\GitHub\APL\Modulo C#\GUI\obj\Debug\GUI.FormVisualizzaVeicolo.resources
+D:\Raccolte\Documents\Alessandro\GitHub\APL\Modulo C#\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\Raccolte\Documents\Alessandro\GitHub\APL\Modulo C#\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\Raccolte\Documents\Alessandro\GitHub\APL\Modulo C#\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\Raccolte\Documents\Alessandro\GitHub\APL\Modulo C#\GUI\obj\Debug\GUI.csproj.Up2Date
+D:\Raccolte\Documents\Alessandro\GitHub\APL\Modulo C#\GUI\obj\Debug\GUI.exe
+D:\Raccolte\Documents\Alessandro\GitHub\APL\Modulo C#\GUI\obj\Debug\GUI.pdb
+C:\Users\aldob\Desktop\Magistrale\Advanced Languages\Progetto\Modulo C#\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\aldob\Desktop\Magistrale\Advanced Languages\Progetto\Modulo C#\GUI\obj\Debug\GUI.FormFirstPage.resources
+C:\Users\aldob\Desktop\Magistrale\Advanced Languages\Progetto\Modulo C#\GUI\obj\Debug\GUI.FormGraficoLive.resources
+C:\Users\aldob\Desktop\Magistrale\Advanced Languages\Progetto\Modulo C#\GUI\obj\Debug\GUI.FormVisualizzaVeicolo.resources
+C:\Users\aldob\Desktop\Magistrale\Advanced Languages\Progetto\Modulo C#\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\aldob\Desktop\Magistrale\Advanced Languages\Progetto\Modulo C#\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\aldob\Desktop\Magistrale\Advanced Languages\Progetto\Modulo C#\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\aldob\Desktop\Magistrale\Advanced Languages\Progetto\Modulo C#\GUI\obj\Debug\GUI.exe
+C:\Users\aldob\Desktop\Magistrale\Advanced Languages\Progetto\Modulo C#\GUI\obj\Debug\GUI.pdb
+C:\Users\aldob\Desktop\Magistrale\Advanced Languages\Progetto\Modulo C#\GUI\bin\Debug\GUI.exe.config
+C:\Users\aldob\Desktop\Magistrale\Advanced Languages\Progetto\Modulo C#\GUI\bin\Debug\GUI.exe
+C:\Users\aldob\Desktop\Magistrale\Advanced Languages\Progetto\Modulo C#\GUI\bin\Debug\GUI.pdb
+C:\Users\aldob\Desktop\Magistrale\Advanced Languages\Progetto\Modulo C#\GUI\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\aldob\Desktop\Magistrale\Advanced Languages\Progetto\Modulo C#\GUI\bin\Debug\Google.Protobuf.dll
+C:\Users\aldob\Desktop\Magistrale\Advanced Languages\Progetto\Modulo C#\GUI\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\aldob\Desktop\Magistrale\Advanced Languages\Progetto\Modulo C#\GUI\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\aldob\Desktop\Magistrale\Advanced Languages\Progetto\Modulo C#\GUI\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\aldob\Desktop\Magistrale\Advanced Languages\Progetto\Modulo C#\GUI\bin\Debug\LiveCharts.dll
+C:\Users\aldob\Desktop\Magistrale\Advanced Languages\Progetto\Modulo C#\GUI\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\aldob\Desktop\Magistrale\Advanced Languages\Progetto\Modulo C#\GUI\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\aldob\Desktop\Magistrale\Advanced Languages\Progetto\Modulo C#\GUI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\aldob\Desktop\Magistrale\Advanced Languages\Progetto\Modulo C#\GUI\bin\Debug\MySql.Data.dll
+C:\Users\aldob\Desktop\Magistrale\Advanced Languages\Progetto\Modulo C#\GUI\bin\Debug\System.Buffers.dll
+C:\Users\aldob\Desktop\Magistrale\Advanced Languages\Progetto\Modulo C#\GUI\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\aldob\Desktop\Magistrale\Advanced Languages\Progetto\Modulo C#\GUI\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\aldob\Desktop\Magistrale\Advanced Languages\Progetto\Modulo C#\GUI\bin\Debug\System.IO.Pipelines.dll
+C:\Users\aldob\Desktop\Magistrale\Advanced Languages\Progetto\Modulo C#\GUI\bin\Debug\System.Memory.dll
+C:\Users\aldob\Desktop\Magistrale\Advanced Languages\Progetto\Modulo C#\GUI\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\aldob\Desktop\Magistrale\Advanced Languages\Progetto\Modulo C#\GUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\aldob\Desktop\Magistrale\Advanced Languages\Progetto\Modulo C#\GUI\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\aldob\Desktop\Magistrale\Advanced Languages\Progetto\Modulo C#\GUI\bin\Debug\ZstdSharp.dll
+C:\Users\aldob\Desktop\Magistrale\Advanced Languages\Progetto\Modulo C#\GUI\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\aldob\Desktop\Magistrale\Advanced Languages\Progetto\Modulo C#\GUI\bin\Debug\Google.Protobuf.pdb
+C:\Users\aldob\Desktop\Magistrale\Advanced Languages\Progetto\Modulo C#\GUI\bin\Debug\Google.Protobuf.xml
+C:\Users\aldob\Desktop\Magistrale\Advanced Languages\Progetto\Modulo C#\GUI\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\aldob\Desktop\Magistrale\Advanced Languages\Progetto\Modulo C#\GUI\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\aldob\Desktop\Magistrale\Advanced Languages\Progetto\Modulo C#\GUI\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\aldob\Desktop\Magistrale\Advanced Languages\Progetto\Modulo C#\GUI\bin\Debug\LiveCharts.pdb
+C:\Users\aldob\Desktop\Magistrale\Advanced Languages\Progetto\Modulo C#\GUI\bin\Debug\LiveCharts.xml
+C:\Users\aldob\Desktop\Magistrale\Advanced Languages\Progetto\Modulo C#\GUI\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\aldob\Desktop\Magistrale\Advanced Languages\Progetto\Modulo C#\GUI\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\aldob\Desktop\Magistrale\Advanced Languages\Progetto\Modulo C#\GUI\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\aldob\Desktop\Magistrale\Advanced Languages\Progetto\Modulo C#\GUI\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\aldob\Desktop\Magistrale\Advanced Languages\Progetto\Modulo C#\GUI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\aldob\Desktop\Magistrale\Advanced Languages\Progetto\Modulo C#\GUI\bin\Debug\MySql.Data.xml
+C:\Users\aldob\Desktop\Magistrale\Advanced Languages\Progetto\Modulo C#\GUI\bin\Debug\System.Buffers.xml
+C:\Users\aldob\Desktop\Magistrale\Advanced Languages\Progetto\Modulo C#\GUI\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\aldob\Desktop\Magistrale\Advanced Languages\Progetto\Modulo C#\GUI\bin\Debug\System.IO.Pipelines.xml
+C:\Users\aldob\Desktop\Magistrale\Advanced Languages\Progetto\Modulo C#\GUI\bin\Debug\System.Memory.xml
+C:\Users\aldob\Desktop\Magistrale\Advanced Languages\Progetto\Modulo C#\GUI\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\aldob\Desktop\Magistrale\Advanced Languages\Progetto\Modulo C#\GUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\aldob\Desktop\Magistrale\Advanced Languages\Progetto\Modulo C#\GUI\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\aldob\Desktop\Magistrale\Advanced Languages\Progetto\Modulo C#\GUI\obj\Debug\GUI.csproj.CopyComplete

@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Raccolte\\Documents\\Alessandro\\GitHub\\APL\\cpp_module\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{261E14C6-E4AF-4647-8E95-FA3B76E48CBF}|cpp_module\\cpp_module.vcxproj|D:\\Raccolte\\Documents\\Alessandro\\GitHub\\APL\\cpp_module\\cpp_module\\canbus_structures.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{261E14C6-E4AF-4647-8E95-FA3B76E48CBF}|cpp_module\\cpp_module.vcxproj|solutionrelative:cpp_module\\canbus_structures.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{261E14C6-E4AF-4647-8E95-FA3B76E48CBF}|cpp_module\\cpp_module.vcxproj|D:\\Raccolte\\Documents\\Alessandro\\GitHub\\APL\\cpp_module\\cpp_module\\canbus_constants.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{261E14C6-E4AF-4647-8E95-FA3B76E48CBF}|cpp_module\\cpp_module.vcxproj|solutionrelative:cpp_module\\canbus_constants.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{261E14C6-E4AF-4647-8E95-FA3B76E48CBF}|cpp_module\\cpp_module.vcxproj|D:\\Raccolte\\Documents\\Alessandro\\GitHub\\APL\\cpp_module\\cpp_module\\vehicle_data.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{261E14C6-E4AF-4647-8E95-FA3B76E48CBF}|cpp_module\\cpp_module.vcxproj|solutionrelative:cpp_module\\vehicle_data.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{261E14C6-E4AF-4647-8E95-FA3B76E48CBF}|cpp_module\\cpp_module.vcxproj|D:\\Raccolte\\Documents\\Alessandro\\GitHub\\APL\\cpp_module\\cpp_module\\vehicle_data.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{261E14C6-E4AF-4647-8E95-FA3B76E48CBF}|cpp_module\\cpp_module.vcxproj|solutionrelative:cpp_module\\vehicle_data.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{261E14C6-E4AF-4647-8E95-FA3B76E48CBF}|cpp_module\\cpp_module.vcxproj|D:\\Raccolte\\Documents\\Alessandro\\GitHub\\APL\\cpp_module\\cpp_module\\timestamp_utils.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{261E14C6-E4AF-4647-8E95-FA3B76E48CBF}|cpp_module\\cpp_module.vcxproj|solutionrelative:cpp_module\\timestamp_utils.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{261E14C6-E4AF-4647-8E95-FA3B76E48CBF}|cpp_module\\cpp_module.vcxproj|D:\\Raccolte\\Documents\\Alessandro\\GitHub\\APL\\cpp_module\\cpp_module\\timestamp_utils.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{261E14C6-E4AF-4647-8E95-FA3B76E48CBF}|cpp_module\\cpp_module.vcxproj|solutionrelative:cpp_module\\timestamp_utils.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{261E14C6-E4AF-4647-8E95-FA3B76E48CBF}|cpp_module\\cpp_module.vcxproj|D:\\Raccolte\\Documents\\Alessandro\\GitHub\\APL\\cpp_module\\cpp_module\\threads_main.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{261E14C6-E4AF-4647-8E95-FA3B76E48CBF}|cpp_module\\cpp_module.vcxproj|solutionrelative:cpp_module\\threads_main.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{261E14C6-E4AF-4647-8E95-FA3B76E48CBF}|cpp_module\\cpp_module.vcxproj|D:\\Raccolte\\Documents\\Alessandro\\GitHub\\APL\\cpp_module\\cpp_module\\json_utils.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{261E14C6-E4AF-4647-8E95-FA3B76E48CBF}|cpp_module\\cpp_module.vcxproj|solutionrelative:cpp_module\\json_utils.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{261E14C6-E4AF-4647-8E95-FA3B76E48CBF}|cpp_module\\cpp_module.vcxproj|D:\\Raccolte\\Documents\\Alessandro\\GitHub\\APL\\cpp_module\\cpp_module\\json_utils.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{261E14C6-E4AF-4647-8E95-FA3B76E48CBF}|cpp_module\\cpp_module.vcxproj|solutionrelative:cpp_module\\json_utils.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{261E14C6-E4AF-4647-8E95-FA3B76E48CBF}|cpp_module\\cpp_module.vcxproj|D:\\Raccolte\\Documents\\Alessandro\\GitHub\\APL\\cpp_module\\cpp_module\\gateway_data.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{261E14C6-E4AF-4647-8E95-FA3B76E48CBF}|cpp_module\\cpp_module.vcxproj|solutionrelative:cpp_module\\gateway_data.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{261E14C6-E4AF-4647-8E95-FA3B76E48CBF}|cpp_module\\cpp_module.vcxproj|D:\\Raccolte\\Documents\\Alessandro\\GitHub\\APL\\cpp_module\\cpp_module\\cpp_module.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{261E14C6-E4AF-4647-8E95-FA3B76E48CBF}|cpp_module\\cpp_module.vcxproj|solutionrelative:cpp_module\\cpp_module.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{261E14C6-E4AF-4647-8E95-FA3B76E48CBF}|cpp_module\\cpp_module.vcxproj|D:\\Raccolte\\Documents\\Alessandro\\GitHub\\APL\\cpp_module\\cpp_module\\gateway_data.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{261E14C6-E4AF-4647-8E95-FA3B76E48CBF}|cpp_module\\cpp_module.vcxproj|solutionrelative:cpp_module\\gateway_data.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "timestamp_utils.h",
+              "DocumentMoniker": "D:\\Raccolte\\Documents\\Alessandro\\GitHub\\APL\\cpp_module\\cpp_module\\timestamp_utils.h",
+              "RelativeDocumentMoniker": "cpp_module\\timestamp_utils.h",
+              "ToolTip": "D:\\Raccolte\\Documents\\Alessandro\\GitHub\\APL\\cpp_module\\cpp_module\\timestamp_utils.h",
+              "RelativeToolTip": "cpp_module\\timestamp_utils.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-02-29T22:19:15.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "timestamp_utils.cpp",
+              "DocumentMoniker": "D:\\Raccolte\\Documents\\Alessandro\\GitHub\\APL\\cpp_module\\cpp_module\\timestamp_utils.cpp",
+              "RelativeDocumentMoniker": "cpp_module\\timestamp_utils.cpp",
+              "ToolTip": "D:\\Raccolte\\Documents\\Alessandro\\GitHub\\APL\\cpp_module\\cpp_module\\timestamp_utils.cpp",
+              "RelativeToolTip": "cpp_module\\timestamp_utils.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-02-29T22:19:12.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "json_utils.h",
+              "DocumentMoniker": "D:\\Raccolte\\Documents\\Alessandro\\GitHub\\APL\\cpp_module\\cpp_module\\json_utils.h",
+              "RelativeDocumentMoniker": "cpp_module\\json_utils.h",
+              "ToolTip": "D:\\Raccolte\\Documents\\Alessandro\\GitHub\\APL\\cpp_module\\cpp_module\\json_utils.h",
+              "RelativeToolTip": "cpp_module\\json_utils.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-02-29T22:19:03.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "threads_main.h",
+              "DocumentMoniker": "D:\\Raccolte\\Documents\\Alessandro\\GitHub\\APL\\cpp_module\\cpp_module\\threads_main.h",
+              "RelativeDocumentMoniker": "cpp_module\\threads_main.h",
+              "ToolTip": "D:\\Raccolte\\Documents\\Alessandro\\GitHub\\APL\\cpp_module\\cpp_module\\threads_main.h",
+              "RelativeToolTip": "cpp_module\\threads_main.h",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-02-29T16:01:35.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "cpp_module.cpp",
+              "DocumentMoniker": "D:\\Raccolte\\Documents\\Alessandro\\GitHub\\APL\\cpp_module\\cpp_module\\cpp_module.cpp",
+              "RelativeDocumentMoniker": "cpp_module\\cpp_module.cpp",
+              "ToolTip": "D:\\Raccolte\\Documents\\Alessandro\\GitHub\\APL\\cpp_module\\cpp_module\\cpp_module.cpp",
+              "RelativeToolTip": "cpp_module\\cpp_module.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-02-29T16:50:08.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "json_utils.cpp",
+              "DocumentMoniker": "D:\\Raccolte\\Documents\\Alessandro\\GitHub\\APL\\cpp_module\\cpp_module\\json_utils.cpp",
+              "RelativeDocumentMoniker": "cpp_module\\json_utils.cpp",
+              "ToolTip": "D:\\Raccolte\\Documents\\Alessandro\\GitHub\\APL\\cpp_module\\cpp_module\\json_utils.cpp",
+              "RelativeToolTip": "cpp_module\\json_utils.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-02-29T15:50:40.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "gateway_data.h",
+              "DocumentMoniker": "D:\\Raccolte\\Documents\\Alessandro\\GitHub\\APL\\cpp_module\\cpp_module\\gateway_data.h",
+              "RelativeDocumentMoniker": "cpp_module\\gateway_data.h",
+              "ToolTip": "D:\\Raccolte\\Documents\\Alessandro\\GitHub\\APL\\cpp_module\\cpp_module\\gateway_data.h",
+              "RelativeToolTip": "cpp_module\\gateway_data.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-02-29T15:58:17.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "gateway_data.cpp",
+              "DocumentMoniker": "D:\\Raccolte\\Documents\\Alessandro\\GitHub\\APL\\cpp_module\\cpp_module\\gateway_data.cpp",
+              "RelativeDocumentMoniker": "cpp_module\\gateway_data.cpp",
+              "ToolTip": "D:\\Raccolte\\Documents\\Alessandro\\GitHub\\APL\\cpp_module\\cpp_module\\gateway_data.cpp",
+              "RelativeToolTip": "cpp_module\\gateway_data.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-02-29T15:02:48.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "vehicle_data.h",
+              "DocumentMoniker": "D:\\Raccolte\\Documents\\Alessandro\\GitHub\\APL\\cpp_module\\cpp_module\\vehicle_data.h",
+              "RelativeDocumentMoniker": "cpp_module\\vehicle_data.h",
+              "ToolTip": "D:\\Raccolte\\Documents\\Alessandro\\GitHub\\APL\\cpp_module\\cpp_module\\vehicle_data.h",
+              "RelativeToolTip": "cpp_module\\vehicle_data.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-02-29T16:22:31.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "vehicle_data.cpp",
+              "DocumentMoniker": "D:\\Raccolte\\Documents\\Alessandro\\GitHub\\APL\\cpp_module\\cpp_module\\vehicle_data.cpp",
+              "RelativeDocumentMoniker": "cpp_module\\vehicle_data.cpp",
+              "ToolTip": "D:\\Raccolte\\Documents\\Alessandro\\GitHub\\APL\\cpp_module\\cpp_module\\vehicle_data.cpp",
+              "RelativeToolTip": "cpp_module\\vehicle_data.cpp",
+              "ViewState": "AQIAAFYBAAAAAAAAAAAAAE4AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-02-29T14:59:29.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "canbus_structures.h",
+              "DocumentMoniker": "D:\\Raccolte\\Documents\\Alessandro\\GitHub\\APL\\cpp_module\\cpp_module\\canbus_structures.h",
+              "RelativeDocumentMoniker": "cpp_module\\canbus_structures.h",
+              "ToolTip": "D:\\Raccolte\\Documents\\Alessandro\\GitHub\\APL\\cpp_module\\cpp_module\\canbus_structures.h",
+              "RelativeToolTip": "cpp_module\\canbus_structures.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-02-29T14:59:18.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "canbus_constants.h",
+              "DocumentMoniker": "D:\\Raccolte\\Documents\\Alessandro\\GitHub\\APL\\cpp_module\\cpp_module\\canbus_constants.h",
+              "RelativeDocumentMoniker": "cpp_module\\canbus_constants.h",
+              "ToolTip": "D:\\Raccolte\\Documents\\Alessandro\\GitHub\\APL\\cpp_module\\cpp_module\\canbus_constants.h",
+              "RelativeToolTip": "cpp_module\\canbus_constants.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-02-29T16:30:21.514Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

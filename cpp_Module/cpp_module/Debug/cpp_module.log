@@ -1,0 +1,24 @@
+﻿  cpp_module.cpp
+  gateway_data.cpp
+  json_utils.cpp
+D:\Raccolte\Documents\Alessandro\GitHub\APL\cpp_module\cpp_module\json_utils.cpp(12,31): warning C4477: 'sprintf': con la stringa di formato '%X' è necessario un argomento di tipo 'unsigned int', ma il tipo dell'argomento variadic 11 è 'uint64_t'
+  D:\Raccolte\Documents\Alessandro\GitHub\APL\cpp_module\cpp_module\json_utils.cpp(12,31):
+  provare a usare '%llX' nella stringa di formato
+  D:\Raccolte\Documents\Alessandro\GitHub\APL\cpp_module\cpp_module\json_utils.cpp(12,31):
+  provare a usare '%I64X' nella stringa di formato
+  
+D:\Raccolte\Documents\Alessandro\GitHub\APL\cpp_module\cpp_module\json_utils.cpp(12,31): warning C4477: 'sprintf': con la stringa di formato '%X' è necessario un argomento di tipo 'unsigned int', ma il tipo dell'argomento variadic 12 è 'uint64_t'
+  D:\Raccolte\Documents\Alessandro\GitHub\APL\cpp_module\cpp_module\json_utils.cpp(12,31):
+  provare a usare '%llX' nella stringa di formato
+  D:\Raccolte\Documents\Alessandro\GitHub\APL\cpp_module\cpp_module\json_utils.cpp(12,31):
+  provare a usare '%I64X' nella stringa di formato
+  
+  timestamp_utils.cpp
+  vehicle_data.cpp
+D:\Raccolte\Documents\Alessandro\GitHub\APL\cpp_module\cpp_module\vehicle_data.cpp(16,12): warning C4244: 'argomento': conversione da 'time_t' a 'unsigned int'. Possibile perdita di dati.
+D:\Raccolte\Documents\Alessandro\GitHub\APL\cpp_module\cpp_module\vehicle_data.cpp(7,15): warning C4930: 'Timestamp t(void)': funzione con prototipo non chiamata. Si intendeva utilizzare una definizione di variabile?
+D:\Raccolte\Documents\Alessandro\GitHub\APL\cpp_module\cpp_module\vehicle_data.cpp(30,41): warning C4244: '=': conversione da 'uint64_t' a 'uint32_t'. Possibile perdita di dati.
+D:\Raccolte\Documents\Alessandro\GitHub\APL\cpp_module\cpp_module\vehicle_data.cpp(35,44): warning C4244: '=': conversione da 'uint64_t' a 'uint32_t'. Possibile perdita di dati.
+D:\Raccolte\Documents\Alessandro\GitHub\APL\cpp_module\cpp_module\vehicle_data.cpp(40,43): warning C4244: '=': conversione da 'uint64_t' a 'uint32_t'. Possibile perdita di dati.
+  Generazione del codice in corso...
+D:\Raccolte\Documents\Alessandro\GitHub\APL\cpp_module\cpp_module\vehicle_data.cpp(1,1): error C1090: Chiamata API PDB non riuscita. Codice errore '3': D:\Raccolte\Documents\Alessandro\GitHub\APL\cpp_module\cpp_module\Debug\vc143.pdb
